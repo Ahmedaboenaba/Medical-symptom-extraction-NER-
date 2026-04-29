@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/🏥-Medical%20NER-blue?style=for-the-badge" alt="Medical NER"/>
 </p>
 
-<h1 align="center">🏥 Medical Named Entity Recognition (NER)</h1>
+<h1 align="center">🏥 Medical Symptoms Extraction Named Entity Recognition (NER)</h1>
 
 <p align="center">
   <b>Extract symptoms, diseases, drugs & clinical entities from biomedical text using Transformers</b>
