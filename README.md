@@ -26,6 +26,7 @@
 This project builds an **end-to-end pipeline** for extracting medical entities — such as **chemicals**, **drugs**, and **diseases** — from PubMed biomedical abstracts using state-of-the-art Transformer models.
 
 We fine-tune and compare **three model variants**:
+You can run the model here: https://huggingface.co/spaces/AhmedJaber/Medical-Symptoms-extraction
 
 | # | Model | Encoder | Classification Head | Role |
 |---|-------|---------|---------------------|------|
